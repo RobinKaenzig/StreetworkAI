@@ -6,6 +6,6 @@ The project will require machine learning to analyse patterns in the planning an
 Predictive models will be developed to establish the scale of potential benefits in better management through the application of differing conditions applied to works.  
 
 # Model development
-Some of the key areas of  model development will include Text classification, regression analysis and outlier detection. 
+Some of the key areas of  model development will include text classification, regression analysis and outlier detection. 
 
 
